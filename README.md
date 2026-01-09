@@ -28,7 +28,7 @@ As a former basketball scholarship athlete turned developer, I've adopted the co
 * **Tech:** Java, Sockets, Concurrency, Collections Framework.
 * **Key Achievement:** Architected a system using synchronized methods to ensure thread-safety and prevent race conditions while managing orders across waiting, brewing, and collection queues.
 
-#### 📊 [Sentiment Analysis & Text Classification](https://github.com/Muyiwa-Obamakin/Your-Repo-Name)
+#### 📊 [Sentiment Analysis & Text Classification](https://github.com/Muyiwa-Obamakin/Text-Classification-Model)
 *A Machine Learning pipeline analyzing emotional tone in social media data.*
 * **Tech:** Python, Scikit-learn, Pandas, TF-IDF.
 * **Performance:** Achieved **90% accuracy** in classification tasks.
