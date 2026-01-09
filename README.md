@@ -23,7 +23,7 @@ As a former basketball scholarship athlete turned developer, I've adopted the co
 
 ### 🚀 Featured Projects
 
-#### ☕ [Multi-threaded Coffee Shop Simulation](https://github.com/Muyiwa-Obamakin/Coffee-Application)
+#### ☕ [Multi-threaded Coffee Shop Simulation](https://github.com/Muyiwa-Obamakin/Multithreaded-Coffee-App)
 *A scalable backend system simulating a real-time coffee ordering environment.*
 * **Tech:** Java, Sockets, Concurrency, Collections Framework.
 * **Key Achievement:** Architected a system using synchronized methods to ensure thread-safety and prevent race conditions while managing orders across waiting, brewing, and collection queues.
